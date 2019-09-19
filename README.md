@@ -1,2 +1,2 @@
 # HMHMGAMING
-Hack Script Online Script
+gg.alert("📡Thanks for Using Network Has Ban Connect Script⚠")
